@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="textview">TextView</string>
+    <string name="button" translatable="false">Button</string>
+    <string name="password" translatable="false">password</string>
+    <string name="TODO">username</string>
+    <string name="string_username" />
+    <string name="username" translatable="false">username</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="post">Post</string>
+    <string name="me">me</string>
+    <string name="string_me" />
+    <string name="write_a_caption">Write a caption...</string>
+
+
+</resources>
