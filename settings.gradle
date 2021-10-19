@@ -6,7 +6,11 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
 
 
+
+
+
     }
     rootProject.name = "My Application"
     include ':app'
 }
+

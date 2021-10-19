@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/court/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2140625" />
         <entry key="..\:/Users/court/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
-        <entry key="..\:/Users/court/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/court/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/court/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_compose.xml" value="0.1" />
+        <entry key="..\:/Users/court/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_posts.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/court/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_post.xml" value="0.22" />
+        <entry key="..\:/Users/court/AndroidStudioProjects/MyApplication/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25" />
         <entry key="..\:/Users/court/AndroidStudioProjects/MyApplication/app/src/main/res/xml/fileprovider.xml" value="0.2015625" />
       </map>
     </option>
